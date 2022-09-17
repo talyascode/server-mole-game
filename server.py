@@ -1,5 +1,5 @@
 """
-Author: Talya Gross
+Author: Talya
 Game: Pop the Mole
 SERVER
 """
