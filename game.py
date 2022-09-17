@@ -1,5 +1,5 @@
 """
-Author: Talya Gross
+Author: Talya 
 Game: Pop the Mole
 the winner is the first one who hits the moles "NUM_MOLES" times.
 """
